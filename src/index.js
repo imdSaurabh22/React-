@@ -5,7 +5,7 @@ import App from "./App";
 ReactDOM.render(<App />,document.getElementById("root"));
 
 
-
+// 1st method rendering inside function 
 // var count= 0;
 
 // function increase(){

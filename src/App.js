@@ -24,6 +24,7 @@ export default App;
 
 
 
+// 1st method
 
 // import React from "react";
 
